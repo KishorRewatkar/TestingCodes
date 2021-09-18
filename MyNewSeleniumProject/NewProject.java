@@ -55,6 +55,6 @@ public class NewProject {
         }
         //close chrome
           Thread.sleep(5000);
-        driver.close();
+//        driver.close();
 	}
 }
